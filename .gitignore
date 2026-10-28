@@ -1,0 +1,16 @@
+*.log
+__pycache__/
+*.pyc
+
+# TouchDesigner
+Backup/
+td/Backup/
+*.toe.dir/
+*.tox.dir/
+# projekty TD zapisywane przez uzytkownika w folderze paczki
+td/*.toe
+!td/RPLidar.toe
+CrashAutoSave.*.toe
+TouchDesignerCrash.*.dmp
+TDImportCache/
+Log/

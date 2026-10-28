@@ -1,0 +1,9 @@
+* text=auto
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.py text eol=lf
+*.frag text eol=lf
+*.md text eol=lf
+*.toe binary
+*.tox binary
+*.png binary
